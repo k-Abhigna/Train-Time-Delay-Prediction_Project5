@@ -1,0 +1,31 @@
+Train Time Delay Prediction for High-Speed Train Dispatching Based on Spatio-Temporal Graph Convolutional Network
+
+IEEE Transactions on Intelligent Transportation Systems,Volume:23,Issue:3,Issue Date:March.2022
+
+
+Train delay prediction, graph convolutional network, spatio-temporal dependence, collective cumulative effect.
+
+
+Train_Time_Delay_Prediction
+
+
+train_time_delay_prediction
+
+
+
+delay_prediction_type
+
+
+
+ddatetime
+idn
+carrier
+adate1
+connection
+arrival
+delay_in_min
+name
+Prediction
+
+
+
